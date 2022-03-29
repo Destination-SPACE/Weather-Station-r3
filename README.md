@@ -1,5 +1,5 @@
 # Destination Weather Station R3
-This is the repository for the Destination Weather Station. Within this repository is all the materials needed to get started with your Destination Weather Station.
+This is the repository for the Destination Weather Station. Within this repository is all the materials needed to get started with your Destination Weather Station. Go to the wiki to get started.
 
 ### Links
 
