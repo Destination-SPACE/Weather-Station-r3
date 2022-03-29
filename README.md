@@ -4,8 +4,8 @@ This is the repository for the Destination Weather Station. Within this reposito
 ### Links
 
 * [Wiki](https://github.com/Destination-SPACE/Weather-Station-r3/wiki)
-* [Hardware Repository](https://github.com/Destination-SPACE/Weather-Station-r3-Hardware)
-* [Software Repository](https://github.com/Destination-SPACE/Weather-Station-r3-Software)
+* [Hardware repository](https://github.com/Destination-SPACE/Weather-Station-r3-Hardware)
+* [Software repository](https://github.com/Destination-SPACE/Weather-Station-r3-Software)
 
 # License
 ![](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)
