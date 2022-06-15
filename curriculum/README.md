@@ -1,2 +1,0 @@
-# Curriculum
-Coming soon!
