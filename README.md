@@ -5,6 +5,7 @@ This is the repository for the Destination Weather Station. Within this reposito
 * [Wiki](https://github.com/Destination-SPACE/Weather-Station-r3/wiki)
 * [Hardware repository](https://github.com/Destination-SPACE/Weather-Station-r3-Hardware)
 * [Software repository](https://github.com/Destination-SPACE/Weather-Station-r3-Software)
+* [Programming Videos](https://www.youtube.com/watch?v=XvsUvmIJXvo&list=PLfRPz5F_Jd0_xJJGgX0tyzGxaJ-VCzVwo)
 # License
 ![](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)
 
